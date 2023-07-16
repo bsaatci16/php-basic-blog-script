@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/bsaatci16/php-basic-blog-script">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://readme.shaankhan.dev/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PHP Basic Blog Script</h3>
@@ -39,7 +39,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](https://readme.shaankhan.dev/images/screenshot.png)
 
 Basit Blog yazılımıyla kendinize ait bir anı paylaşma ve ya seyahat rehberi gibi kullanmanıza olanak sağlamaktadır.
 
